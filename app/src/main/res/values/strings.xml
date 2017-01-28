@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Math Game</string>
+    <string name="game1">Mind Math</string>
+    <string name="game2">Make 24</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="button2">Submit</string>
+    <string name="button1">New</string>
+    <string name="mark_statement">Mark(s) you got = </string>
+    <string name="answered_question_statement">Question(s) Answered = </string>
+    <string name="right">You are right!</string>
+    <string name="wrong">You are wrong!\nThe correct answer of\n </string>
+    <string name="is">is</string>
+    <string name="no_record">No record yet.</string>
+    <string name="answer_not_provide">You did not provide any answer.</string>
+    <string name="correct_rate">Correct rate =  </string>
+    <string name="setting_dialog_title">Setting</string>
+    <string name="setting_dialog_msg">This function is not finised yet.</string>
+    <string name="TF">True of False Image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

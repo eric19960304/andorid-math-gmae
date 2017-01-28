@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_a"
+            android:icon="@drawable/ic_menu_a"
+            android:title="@string/game1" />
+        <item
+            android:id="@+id/nav_b"
+            android:icon="@drawable/ic_menu_b"
+            android:title="@string/game2" />
+    </group>
+
+    <item
+        android:id="@+id/nav_exit"
+        android:icon="@drawable/ic_menu_exit"
+        android:title="Exit" />
+
+</menu>
