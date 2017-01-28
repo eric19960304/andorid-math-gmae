@@ -57,7 +57,7 @@ public class Game1Fragment extends Fragment {
     public Game1Fragment() {
         // Required empty public constructor
     }
-    // hello from mac :)
+    // you pull this out!!! good!
     @Override
     public void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
